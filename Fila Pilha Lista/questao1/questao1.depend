@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1606573213 source:c:\users\leandro barros\desktop\trabalho2_parte1\questao1\questao1\questao1\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"lista.h"
+
+1606573195 c:\users\leandro barros\desktop\trabalho2_parte1\questao1\questao1\questao1\lista.h
+
+1606573235 source:c:\users\leandro barros\desktop\trabalho2_parte1\questao1\questao1\questao1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"lista.h"
+
+1606573213 source:c:\users\leandro barros\desktop\trabalho2_parte1\questao1\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"lista.h"
+
+1606573195 c:\users\leandro barros\desktop\trabalho2_parte1\questao1\lista.h
+
+1606573235 source:c:\users\leandro barros\desktop\trabalho2_parte1\questao1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"lista.h"
+
+1606573213 source:c:\users\leandro barros\desktop\trabalho-av2\questao1\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"lista.h"
+
+1606573195 c:\users\leandro barros\desktop\trabalho-av2\questao1\lista.h
+
+1607084670 source:c:\users\leandro barros\desktop\trabalho-av2\questao1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"lista.h"
+
+1606573213 source:e:\faculdade\ed1\trabalho_leandrobarros-av2-part1\questao1\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"lista.h"
+
+1606573195 e:\faculdade\ed1\trabalho_leandrobarros-av2-part1\questao1\lista.h
+
+1607084972 source:e:\faculdade\ed1\trabalho_leandrobarros-av2-part1\questao1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"lista.h"
+

@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1606159808 source:c:\users\leandro barros\desktop\trabalho2_parte1\questao2\questao2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"fila.h"
+
+1606159948 c:\users\leandro barros\desktop\trabalho2_parte1\questao2\questao2\fila.h
+
+1606159943 source:c:\users\leandro barros\desktop\trabalho2_parte1\questao2\questao2\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1606159943 source:c:\users\leandro barros\desktop\trabalho2_parte1\questao2\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1606159948 c:\users\leandro barros\desktop\trabalho2_parte1\questao2\fila.h
+
+1606160062 source:c:\users\leandro barros\desktop\trabalho2_parte1\questao2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"fila.h"
+
+1607088240 source:c:\users\leandro barros\desktop\trabalho-av2\questao2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"fila.h"
+
+1607088373 c:\users\leandro barros\desktop\trabalho-av2\questao2\fila.h
+
+1607088230 source:c:\users\leandro barros\desktop\trabalho-av2\questao2\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1607088230 source:e:\faculdade\ed1\trabalho_leandrobarros-av2-part1\questao2\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1607088373 e:\faculdade\ed1\trabalho_leandrobarros-av2-part1\questao2\fila.h
+
+1607088240 source:e:\faculdade\ed1\trabalho_leandrobarros-av2-part1\questao2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"fila.h"
+

@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1607035001 source:c:\users\leandro barros\desktop\fila_lista\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila_lista.h"
+
+1607027286 c:\users\leandro barros\desktop\fila_lista\fila_lista.h
+
+1607035001 source:c:\users\leandro barros\desktop\fila_lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fila_lista.h"
+
+1607091300 source:c:\users\leandro barros\desktop\trabalho-av2\questao3\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila_lista.h"
+	"lista.h"
+
+1607102581 c:\users\leandro barros\desktop\trabalho-av2\questao3\fila_lista.h
+	"lista.h"
+
+1607092009 source:c:\users\leandro barros\desktop\trabalho-av2\questao3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fila_lista.h"
+	"lista.h"
+
+1607091371 c:\users\leandro barros\desktop\trabalho-av2\questao3\lista.h
+	"fila_lista.h"
+
+1607080727 source:c:\users\leandro barros\desktop\trabalho-av2\questao3\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"fila_lista.h"
+	"lista.h"
+
+1607102543 source:e:\faculdade\ed1\trabalho_leandrobarros-av2-part1\questao3\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila_lista.h"
+	"lista.h"
+
+1607102581 e:\faculdade\ed1\trabalho_leandrobarros-av2-part1\questao3\fila_lista.h
+	"lista.h"
+
+1607091371 e:\faculdade\ed1\trabalho_leandrobarros-av2-part1\questao3\lista.h
+	"fila_lista.h"
+
+1607080727 source:e:\faculdade\ed1\trabalho_leandrobarros-av2-part1\questao3\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"fila_lista.h"
+	"lista.h"
+

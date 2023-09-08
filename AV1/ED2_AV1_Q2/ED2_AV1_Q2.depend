@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1631288068 source:c:\users\valentim\documents\projetos\ed2_av1_q2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"arvore.h"
+
+1631288071 c:\users\valentim\documents\projetos\ed2_av1_q2\arvore.h
+	"arvore.c"
+
+1631288008 c:\users\valentim\documents\projetos\ed2_av1_q2\arvore.c
+

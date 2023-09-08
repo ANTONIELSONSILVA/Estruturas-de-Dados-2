@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1607090908 source:c:\users\leandro barros\desktop\trabalho-av2\questao4\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"pilha.h"
+
+1606591656 c:\users\leandro barros\desktop\trabalho-av2\questao4\pilha.h
+
+1607106261 source:c:\users\leandro barros\desktop\trabalho-av2\questao4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"pilha.h"
+

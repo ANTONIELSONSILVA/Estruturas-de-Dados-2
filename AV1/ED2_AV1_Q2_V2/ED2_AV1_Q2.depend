@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1631288068 source:c:\users\valentim\documents\projetos\ed2_av1_q2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"arvore.h"
+
+1631288071 c:\users\valentim\documents\projetos\ed2_av1_q2\arvore.h
+	"arvore.c"
+
+1631288008 c:\users\valentim\documents\projetos\ed2_av1_q2\arvore.c
+
+1631301470 source:f:\uezo\arquivos antigos\7° semestre 2022-1\ed2\ed2_av1_q2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"arvore.c"
+
+1631301776 f:\uezo\arquivos antigos\7° semestre 2022-1\ed2\ed2_av1_q2\arvore.c
+	"arvore.h"
+
+1631301630 f:\uezo\arquivos antigos\7° semestre 2022-1\ed2\ed2_av1_q2\arvore.h
+
+1631301470 source:f:\uezo\arquivos antigos\7° semestre 2022-1\ed2\avaliações_denis\minhas_resoluções\ed2_av1_q2_certo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"arvore.c"
+
+1631301776 f:\uezo\arquivos antigos\7° semestre 2022-1\ed2\avaliações_denis\minhas_resoluções\ed2_av1_q2_certo\arvore.c
+	"arvore.h"
+
+1631301630 f:\uezo\arquivos antigos\7° semestre 2022-1\ed2\avaliações_denis\minhas_resoluções\ed2_av1_q2_certo\arvore.h
+
